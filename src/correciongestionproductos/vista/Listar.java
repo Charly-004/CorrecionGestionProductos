@@ -8,7 +8,7 @@ import correciongestionproductos.controlador.Controlador;
 
 /**
  *
- * @author papel
+ * @author carla
  */
 public class Listar extends javax.swing.JFrame {
     private Controlador controlador;

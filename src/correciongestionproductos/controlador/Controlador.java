@@ -11,7 +11,7 @@ import correciongestionproductos.vista.Vista;
 
 /**
  *
- * @author papel
+ * @author carla
  */
 public class Controlador {
     private Listar listar;

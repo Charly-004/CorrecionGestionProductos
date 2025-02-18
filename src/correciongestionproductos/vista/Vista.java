@@ -8,7 +8,7 @@ import correciongestionproductos.controlador.Controlador;
 
 /**
  *
- * @author papel
+ * @author carla
  */
 public class Vista extends javax.swing.JFrame {
 

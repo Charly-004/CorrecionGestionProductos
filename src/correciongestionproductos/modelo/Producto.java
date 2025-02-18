@@ -6,7 +6,7 @@ package correciongestionproductos.modelo;
 
 /**
  *
- * @author papel
+ * @author carla
  */
 public class Producto {
     private int id;

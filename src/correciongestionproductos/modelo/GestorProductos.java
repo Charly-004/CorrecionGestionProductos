@@ -6,7 +6,7 @@ package correciongestionproductos.modelo;
 
 /**
  *
- * @author papel
+ * @author carla
  */
 public class GestorProductos {
     int tamanoVector = 5;

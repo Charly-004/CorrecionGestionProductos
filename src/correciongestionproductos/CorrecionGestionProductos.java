@@ -8,7 +8,7 @@ import correciongestionproductos.vista.Vista;
 
 /**
  *
- * @author papel
+ * @author carla
  */
 public class CorrecionGestionProductos {
 
